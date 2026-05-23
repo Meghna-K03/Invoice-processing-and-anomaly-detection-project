@@ -1,0 +1,10 @@
+
+invoices/
+
+output/processed/
+
+__pycache__/
+*.pyc
+*.pyo
+
+output/extracted_texts/
