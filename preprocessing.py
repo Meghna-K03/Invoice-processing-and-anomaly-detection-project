@@ -33,7 +33,7 @@ def reduce_noise(img):
 def binarize(img):
     """Apply thresholding to make text sharp black & white."""
     
-    # binarization - converting every pixel to either black or white
+    # binarization (converting every pixel to either black or white)
     # this makes text stand out clearly from the background
     # THRESH_OTSU automatically figures out the best threshold value
     # based on the image — no need to hardcode a number manually
