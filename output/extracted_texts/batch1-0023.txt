@@ -1,0 +1,76 @@
+Invoice no: 33102457
+
+Date of issue:
+
+Seller:
+
+Harris LLC
+19049 Norma Centers Apt. 108
+Fieldsmouth, AZ 08845
+
+Tax Id: 937-81-0462
+IBAN: GB42MQKW89908599665710
+
+ITEMS
+No. Description Qty
+1. Blue Shiny Stone Floral Art 4,00
+
+Dinning Table Top Marble
+Kitchen Table Top 48 Inches
+
+2. 12" Marble Side Coffee Table 3,00
+
+Top Multi Stone Floral Inlay
+Occasional Decor W260
+
+SUMMARY
+VAT [%]
+10%
+
+Total
+
+09/18/2018
+
+Client:
+
+UM
+
+each
+
+each
+
+Pierce, Bush and Jones
+Unit 0758 Box 0909
+
+DPO AA 34990
+
+Tax Id: 974-83-3645
+
+Net price
+
+3 960,00
+
+259,77
+
+Net worth
+16 619,31
+
+$ 16 619,31
+
+Net worth VAT [%] Gross
+worth
+15 840,00 10% 17 424,00
+
+779,31
+
+VAT
+1 661,93
+
+$ 1 661,93
+
+10% 857,24
+
+Gross worth
+18 281,24
+
+$18 281,24

@@ -1,0 +1,32 @@
+Invoice no: 53553822
+
+Date of issue: 07/24/2012
+
+Seller: Client:
+
+Lee-Brown Bass, Kelly and Barnes
+
+082 Christopher Club Apt. 771 54916 Diana Passage Apt. 658
+Thomasberg, OH 42949 East Steven, NV 32196
+
+Tax Id: 926-74-9803 Tax Id: 935-94-0783
+
+IBAN: GB21NRBX59248288874823
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. 24" Marble White Coffee Top 3,00 each 918,17 2 754,51 10% 3 029,96
+Table Inlay Lapis Stone
+Furniture Indoor Decor W045
+2. 6'x3' Marvelous Marble Living 4,00 each 5 087,20 20 348,80 10% 22 383,68
+Room Table Top Inlay Scagliola
+Inlay Decor H602C
+3. 12" White Marble Coffee Table 1,00 each 295,73 295,73 10% 325,30
+Top Lapis Turquoise Floral Inlay
+Home Decors W538
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 23 399,04 2 339,90 25 738,94
+
+Total $ 23 399,04 $ 2 339,90 $ 25 738,94

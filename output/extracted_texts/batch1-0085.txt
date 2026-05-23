@@ -1,0 +1,54 @@
+Invoice no: 62256280
+
+Date of issue:
+
+Seller:
+
+Myers Inc
+41819 Garrett Pass Suite 517
+New Bryan, NC 40626
+
+Tax Id: 989-81-3221
+IBAN: GB76VXWW63968024546133
+
+ITEMS
+No. Description Qty
+1. Yilong 1'x1.5' 400Lines Area 5,00
+
+Rug High Density Hand knotted
+Silk Carpet 221H
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+11/08/2020
+
+Client:
+
+Cook-Smith
+88740 Tyler Meadow Suite 201
+Garciamouth, KY 01739
+
+Tax Id: 912-76-2889
+
+UM Net price Net worth VAT [%]
+each 540,00 2 700,00 10%
+Net worth VAT
+2 700,00 270,00
+$ 2 700,00 $ 270,00
+
+Gross
+worth
+
+2 970,00
+
+Gross worth
+
+2 970,00
+
+$ 2 970,00

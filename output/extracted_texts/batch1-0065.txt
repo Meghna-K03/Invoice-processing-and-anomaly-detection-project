@@ -1,0 +1,95 @@
+Invoice no: 25194747
+
+Date of issue:
+
+Seller:
+
+Castillo-Jones
+396 Jones Shore Apt. 781
+North Cynthiafurt, MS 28881
+
+Tax Id: 917-87-0923
+IBAN: GB490ZCG79609103385168
+
+ITEMS
+
+No. Description
+
+1. Cherokee Boys Grayton Skate
+Shoes 12 Surf Skate Casual 12K
+Black Extra Laces 12Y¥
+
+2. jordan 4 kids Size 8
+
+3. Timberland brown slip on shoes
+size 4.5 juniors
+
+SUMMARY
+
+Total
+
+Qty
+
+3,00
+
+3,00
+
+5,00
+
+VAT [%]
+
+10%
+
+05/19/2018
+
+UM
+
+each
+
+each
+
+each
+
+Client:
+
+Preston-Webster
+2986 Weber Summit
+Markstad, MN 43966
+
+Tax Id: 944-70-8920
+
+Net price
+
+19,99
+
+23,00
+
+2,00
+
+Net worth
+138,97
+
+$ 138,97
+
+Net worth VAT [%]
+
+59,97 10%
+69,00 10%
+10,00 10%
+VAT
+13,90
+$ 13,90
+
+Gross
+worth
+
+65,97
+
+75,90
+
+11,00
+
+Gross worth
+152,87
+
+$ 152,87

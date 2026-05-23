@@ -1,0 +1,87 @@
+Invoice no: 16773532
+
+Date of issue:
+
+Seller:
+
+White, Young and Johnson
+711 Fernandez Hill
+Carlosfort, UT 47295
+
+Tax Id: 950-70-0747
+IBAN: GB961ZZT42100305228246
+
+ITEMS
+
+No. Description
+
+1. GAMING PC Desktop Computer
+RGB BUNDLE Intel CORE i7
+16GB RAM Nvidia GTX 1650 1TB
+
+2. Dell Optiplex Desktop Computer
+with Dual 19" LCD Monitors
+Windows 10 Pro
+
+3. 2 Gaming Computers
+
+SUMMARY
+
+Total
+
+Qty
+
+1,00
+
+3,00
+
+3,00
+
+VAT [%]
+
+10%
+
+04/30/2020
+
+UM
+
+each
+
+each
+
+each
+
+Client:
+
+Net price
+
+569,99
+
+149,95
+
+1 300,00
+
+Net worth
+
+4919,84
+
+$4919,84
+
+Wheeler, Lopez and Watts
+334 Kyle Highway Suite 801
+North Matthew, OK 20710
+
+Tax Id: 966-83-5576
+
+Net worth VAT [%] Gross
+worth
+
+569,99 10% 626,99
+449,85 10% 494,83
+
+3 900,00 10% 4 290,00
+VAT Gross worth
+
+491,98 5 411,82
+
+$ 491,98 $5 411,82

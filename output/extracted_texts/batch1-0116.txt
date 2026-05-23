@@ -1,0 +1,52 @@
+Invoice no: 84752922
+
+Date of issue: 10/16/2013
+
+Seller: Client:
+
+Patrick, Strong and Miller Hernandez and Sons
+
+657 Kristin Plaza 922 Brown Rest Apt. 806
+New Jaclynland, MI 36772 Robinsonburgh, WI 71369
+Tax Id: 913-72-3385 Tax Id: 936-91-8519
+
+IBAN: GB52ZKYK20802223800526
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%]
+1. B400 Nintendo 3DS console 1,00 each 14,99 14,99 10%
+
+Gloss Pink Japan x
+
+2. Super Nintendo Entertainment 4,00 each 129,99 519,96
+System SNES Console Bundle
+W/ 2 Controllers & Games
+
+3. Sony PlayStation 2 Console - 5,00 each 79,99 399,95
+
+Black (SCPH-39001) w/ 2
+Controllers and 5 Games
+
+SUMMARY
+VAT [%] Net worth VAT
+10% 934,90 93,49
+
+Total $ 934,90 $ 93,49
+
+10%
+
+10%
+
+Gross
+worth
+
+16,49
+
+571,96
+
+439,95
+
+Gross worth
+1 028,39
+
+$1028,39

@@ -1,0 +1,82 @@
+Invoice no: 13367493
+
+Date of issue:
+
+Seller:
+
+Terry, Crawford and Vega
+2744 Olson Extension Suite 147
+Lake Edward, VA 62672
+
+Tax Id: 926-79-2155
+IBAN: GB79WHIU45376170748238
+
+ITEMS
+No. Description Qty
+1. Escada Long Black Dress SZ 40 4,00
+
+100% Silk Lining
+
+2. Boden Size 8 US Green & Navy 2,00
+Dark Blue Belted Midi Wool Knit
+Sweater Fall Dress
+
+3. J crew mercantile Knitted Tweed 1,00
+Dress Size 4 Black And White
+
+4. NEW NWT OPEN BACK 5,00
+XHILERATION PLUM LACY
+DRESS WOMENS SIZE MEDIUM
+10/12
+
+5. Bcbgeneration Black Sleeveless 1,00
+Lace Back Cut Out Dress Sz 2
+
+6. Papaya Floral Dress Medium 4,00
+Blue White
+SUMMARY
+VAT [%]
+10%
+Total
+
+02/21/2012
+
+Client:
+
+Martin-Schmidt
+726 Mills Island Apt. 702
+Randyville, MA 40113
+
+Tax Id: 912-97-1608
+
+UM Net price Net worth VAT [%]
+each 74,99 299,96 10%
+each 35,00 70,00 10%
+each 26,00 26,00 10%
+each 2,99 14,95 10%
+each 2,99 2,99 10%
+each 9,00 36,00 10%
+
+Net worth VAT
+449,90 44,99
+$ 449,90 $ 44,99
+
+Gross
+worth
+329,96
+
+77,00
+
+28,60
+
+16,45
+
+3,29
+
+39,60
+
+Gross worth
+
+494,89
+
+$ 494,89

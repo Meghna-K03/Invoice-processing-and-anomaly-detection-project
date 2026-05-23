@@ -1,0 +1,54 @@
+Invoice no: 97388190
+
+Date of issue:
+
+Seller:
+
+Cook Ltd
+2101 Meyer Plaza
+North Karen, LA 39773
+
+Tax Id: 912-83-9339
+IBAN: GB36VWDA36824721563097
+
+ITEMS
+No. Description Qty
+1. Dell Optiplex 760 Windows 10 3,00
+Professional Desktop Computer
+4GB 160GB DVD
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+12/13/2016
+
+Client:
+
+Pierce Inc
+461 Matthew Via Apt. 391
+Lake Troyview, MA 07142
+
+Tax Id: 986-76-0381
+
+Net price Net worth VAT [%]
+99,95 299,85 10%
+Net worth VAT
+299,85 29,99
+$ 299,85 $ 29,99
+
+Gross
+worth
+
+329,84
+
+Gross worth
+329,84
+
+$ 329,84

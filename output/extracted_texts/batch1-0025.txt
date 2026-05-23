@@ -1,0 +1,56 @@
+Invoice no: 22083742
+
+Date of issue:
+
+Seller:
+
+Smith, Schaefer and Gonzalez
+Unit 1154 Box 8683
+DPO AE 34629
+
+Tax Id: 902-72-8574
+IBAN: GB62IACN00896958403438
+
+ITEMS
+No. Description Qty
+1. YILONG 4'x6' All over 2,00
+Handmade Carpet Dining Room
+Hand Knotted Silk Rugs 082B
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+03/01/2014
+
+Client:
+
+Smith-Petersen
+05025 Mary Fall
+Mackside, OR 70036
+
+Tax Id: 934-70-6847
+
+Net price Net worth VAT [%]
+3 600,00 7 200,00 10%
+Net worth VAT
+
+7 200,00 720,00
+
+$ 7 200,00 $ 720,00
+
+Gross
+worth
+
+7 920,00
+
+Gross worth
+7 920,00
+
+$7 920,00

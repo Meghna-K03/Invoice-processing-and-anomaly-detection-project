@@ -1,0 +1,62 @@
+Invoice no: 36033621
+
+Date of issue:
+
+Seller:
+
+Walton PLC
+50871 Isaac Fields Apt. 331
+Caseyton, AR 78118
+
+Tax Id: 918-86-3815
+IBAN: GB24XGS063736958329533
+
+ITEMS
+
+No. Description Qty UM
+
+1. DC Kids Turbo Skate Shoe (Little 4,00 each
+Kid/Big Kid) Color WHITE/ROYAL
+
+2. Easy No Tie Rubber Shoe Laces 1,00 each
+Colored Trainers Snickers Kids
++ Adults Shoelaces
+
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+04/18/2017
+
+Client:
+
+Mitchell and Sons
+654 Benjamin Mission
+West David, SD 15741
+
+Tax Id: 934-76-2568
+
+Net price Net worth VAT [%]
+55,00 220,00 10%
+1,55 1,55 10%
+
+Net worth VAT
+
+221,55 22,16
+
+$ 221,55 $ 22,16
+
+Gross
+worth
+
+242,00
+
+171
+
+Gross worth
+243,71
+
+$ 243,71

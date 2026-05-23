@@ -1,0 +1,54 @@
+Invoice no: 80273553
+
+Date of issue:
+
+Seller:
+
+Cohen, Saunders and Chapman
+484 Daniel Mills Apt. 113
+New Gary, KS 79417
+
+Tax Id: 902-97-4185
+IBAN: GB95GRSB31215506829816
+
+ITEMS
+No. Description Qty
+1. Adult Kids Pokemon Pikachu 3,00
+Kigurumi Pajama Cosplay
+Christmas Costume Sleepwear
+SUMMARY
+VAT [%]
+
+Total
+
+10%
+
+UM
+
+each
+
+11/26/2012
+
+Client:
+
+Gray, Conway and Burke
+4444 Mary Brooks
+Rothbury, MN 28946
+
+Tax Id: 938-95-2464
+
+Net price Net worth VAT [%]
+9,95 29,85 10%
+Net worth VAT
+29,85 2,98
+$ 29,85 $ 2,98
+
+Gross
+worth
+
+32,83
+
+Gross worth
+32,83
+
+$ 32,83

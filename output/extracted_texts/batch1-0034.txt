@@ -1,0 +1,73 @@
+Invoice no: 60456703
+
+Date of issue: 09/01/2016
+Seller: Client:
+Hines Ltd Brown Ltd
+
+88927 Martin Brooks Suite 941
+Angelastad, WI 16514
+
+Tax Id: 970-94-1776
+IBAN: GBO5IPNV34325216718258
+
+ITEMS
+No. Description Qty UM
+1. Nintendo Gameboy Color 1,00 each
+
+Console Clear with Box Manual
+CGB-001 GBC Japan Tested 63
+
+2. Sony PlayStation 3 12 GB 2,00 each
+Charcoal Black Console (Used}
+
+SUMMARY
+VAT [%]
+10%
+
+Total
+
+Unit 8049 Box 4906
+
+DPO AE 32839
+
+Tax Id: 991-84-7
+
+Net price
+
+120,00
+
+109,99
+
+Net worth
+339,98
+
+$ 339,98
+
+712
+
+Net worth VAT [%]
+
+120,00
+
+219,98
+
+VAT
+34,00
+
+$ 34,00
+
+10%
+
+10%
+
+Gross
+worth
+
+132,00
+
+241,98
+
+Gross worth
+373,98
+
+$ 373,98

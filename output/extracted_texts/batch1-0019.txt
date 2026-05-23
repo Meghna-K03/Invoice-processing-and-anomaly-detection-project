@@ -1,0 +1,99 @@
+Invoice no: 56908352
+
+Date of issue:
+
+Seller:
+
+Lozano, Wang and Smith
+8162 Dunn Radial
+Lauraland, ID 83827
+
+Tax Id: 914-76-8473
+IBAN: GB68RRBM34982962207975
+
+ITEMS
+
+No. Description
+
+1. Rage By Bob Woodward -
+Donald Trump NEW
+HARDCOVER Sept 2020
+
+2. Spectacular Ireland Coffee
+Table Book - very large
+
+3. The Complete Life's Little
+Instruction Book by Brown, H.
+Jackson, Jr.
+
+SUMMARY
+
+Total
+
+Qty
+
+5,00
+
+4,00
+
+4,00
+
+VAT [%]
+
+10%
+
+01/11/2015
+
+Client:
+
+UM
+
+each
+
+each
+
+each
+
+Evans, Curtis and Salinas
+13078 Mora Garden
+Morseberg, WV 48959
+
+Tax Id: 904-76-9217
+
+Net price
+
+22,93
+
+10,00
+
+4,09
+
+Net worth
+171,01
+
+$ 171,01
+
+Net worth VAT [%]
+114,65 10%
+40,00 10%
+16,36 10%
+
+VAT
+
+17,10
+
+$ 17,10
+
+Gross
+worth
+
+126,12
+
+44,00
+
+18,00
+
+Gross worth
+188,11
+
+$ 188,11

@@ -1,0 +1,34 @@
+Invoice no: 12590251
+
+Date of issue: 01/17/2016
+
+Seller: Client:
+
+Harrison, Tucker and Choi Logan-Rodriguez
+
+012 Rachel Inlet Apt. 289 140 Gates Crossroad Apt. 980
+Burgessmouth, OK 81442 Cannonchester, NV 21140
+Tax Id: 923-72-8310 Tax Id: 975-78-6336
+
+IBAN: GB13JVBI29365211218318
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Lilly Pulitzer 8 Sunkissed with 4,00 each 56,89 227,56 10% 250,32
+Glow Janice Shift Dress
+2. db Yellow Link Print Fit and Flare 1,00 each 14,99 14,99 10% 16,49
+Sleeveless Dress $z M/L
+3. FashionNova “Forecasting You” 4,00 each 25,00 100,00 10% 110,00
+MAXI DRESS TAUPE SZ M
+4, balmain dress 36 1,00 eac 1 550,00 1 550,00 10% 1 705,00
+5. Women Dress Gradient Color 5,00 each 7,59 37,95 10% 41,75
+Long Sleeve Sexy Club Bodycon
+Mini Dresses Casual
+6. J crew mercantile Knitted Tweed 4,00 each 26,00 104,00 10% 114,40
+Dress Size 4 Black And White
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 2 034,50 203,45 2 237,95
+
+Total $ 2 034,50 $ 203,45 $ 2 237,95

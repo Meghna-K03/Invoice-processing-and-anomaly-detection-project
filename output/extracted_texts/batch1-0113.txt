@@ -1,0 +1,37 @@
+Invoice no: 97022721
+
+Date of issue: 04/28/2019
+
+Seller: Client:
+
+Huff-Lowe Brown Ltd
+
+86159 Ferguson Court Suite 636 2761 Little Plains
+
+Lake Gregg, TN 47224 West Maryborough, AZ 33641
+Tax Id: 913-80-7312 Tax Id: 922-90-0778
+
+IBAN: GB42HMVW09464358261254
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Alarco Gaming PC Desktop 1,00 each 500,00 500,00 10% 550,00
+Computer Intel i5
+,8G6,1TB,Win10,WIFI,NVIDIA GTX
+650 1GB
+2. Custom Build Dell Optiplex 9020 4,00 each 221,99 887,96 10% 976,76
+MT i5-4570 3.20GHz Desktop
+Computer PC
+3. Ryzen Gaming Computer 1,00 each 752,00 752,00 10% 827,20
+4. NEW RGB Quad Core Gaming PC 5,00 each 299,99 1 499,95 10% 1 649,95
+Desktop Computer 4.2 GHz 500
+8GB RAM WIN 10 WIFI
+5. Dell Desktop Computer PC Core 3,00 each 124,95 374,85 10% 412,34
+i5 3.1GHz 8GB RAM 500GB HD
+Wifi DVD Windows 10
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 4 014,76 401,48 4 416,24
+
+Total $4 014,76 $ 401,48 $4 416,24

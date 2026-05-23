@@ -1,0 +1,68 @@
+Invoice no: 25687531
+
+Date of issue:
+
+Seller:
+
+Moore, Gallagher and Villanueva
+908 Reed Garden
+Lake James, CO 74955
+
+Tax Id: 966-84-2459
+IBAN: GBO9VHTE83055247674804
+
+ITEMS
+
+No. Description Qty
+
+1. Custom Build Dell Desktop 5,00
+Computer i5 | 16GB | 1TB SSD |
+HDMI Windows 10 PC WiFi
+
+2. Computer Desktop Gaming i5 2,00
+Ram 16G
+
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+each
+
+01/10/2012
+
+Client:
+
+Jones, Andrade and Roth
+86208 Kathryn Extensions Suite 300
+Mcmillanton, MD 03357
+
+Tax Id: 942-92-0994
+
+Net price Net worth VAT [%]
+
+99,00 495,00 10%
+
+315,00 630,00 10%
+Net worth VAT
+1:125,00 112,50
+$1 125,00 $ 112,50
+
+Gross
+worth
+
+544,50
+
+693,00
+
+Gross worth
+
+1 237,50
+
+$1 237,50

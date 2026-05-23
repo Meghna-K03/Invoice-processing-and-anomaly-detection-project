@@ -1,0 +1,101 @@
+Invoice no: 17290430
+
+Date of issue:
+
+Seller:
+
+Hodge-Stokes
+405 Christensen Loop
+Brownbury, OH 52221
+
+Tax Id: 943-98-8353
+IBAN: GB87UTMB32681347261430
+
+ITEMS
+No. Description Qty
+1. Abstract Blue Gray Gradient 5,00
+
+Bedside Area Rugs Bedroom
+Decor Carpets Non-Slip Mat
+
+2. Yilong 5'x7.3’ Hand Knotted Silk 4,00
+Rug Home Decor Traditional
+Raindrop Carpet 1549
+
+3. Romantic Rose Flowers Area 1,00
+Rugs Kitchen Living Room Floor
+Mat Non-slip Carpets
+
+4, Checkered Gabbeh Kashkoli 5,00
+Oriental Area Rug
+
+Contemporary Hand-knotted
+6x8 Carpet
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+05/27/2013
+
+UM
+
+eacn
+
+each
+
+eacn
+
+each
+
+Client:
+Hamilton Ltd
+
+9899 Bryan Springs
+Clarkshire, AR 57184
+
+Tax Id: 996-90-6187
+
+Net price
+
+36,98
+
+2 800,00
+
+13,37
+
+417,24
+
+Net worth
+13 484,47
+
+$13 484,47
+
+Net worth VAT [%]
+
+184,90 10%
+11 200,00 10%
+13,37 10%
+2 086,20 10%
+VAT
+1 348,45
+$1 348,45
+
+Gross
+worth
+
+203,39
+
+12 320,00
+
+14,71
+
+2 294,82
+
+Gross worth
+14 832,92
+
+$ 14 832,92

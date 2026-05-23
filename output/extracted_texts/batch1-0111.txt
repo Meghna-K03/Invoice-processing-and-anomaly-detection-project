@@ -1,0 +1,63 @@
+Invoice no: 33270121
+
+Date of issue:
+
+Seller:
+
+Cross, Pearson and Murillo
+64280 Rodriguez Meadow
+New Alexisfort, MA 54157
+
+Tax Id: 934-85-0117
+IBAN: GB84DYQL59826838547515
+
+ITEMS
+No.
+
+Description
+
+1. LuLaRoe Nicole Dress Size Large
+
+26
+
+SUMMARY
+
+Total
+
+Qty
+
+5,00
+
+VAT [%]
+
+10%
+
+UM
+
+each
+
+10/03/2019
+
+Client:
+
+Francis, Baker and Nunez
+086 Mary Wells Apt. 915
+Lake Kayla, DC 11633
+
+Tax Id: 906-85-7924
+
+Net price Net worth VAT [%]
+1,99 9,95 10%
+Net worth VAT
+9,95 0,99
+$ 9,95 $ 0,99
+
+Gross
+worth
+
+10,94
+
+Gross worth
+10,94
+
+$ 10,94

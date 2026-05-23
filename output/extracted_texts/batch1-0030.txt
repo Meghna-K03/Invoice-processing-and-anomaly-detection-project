@@ -1,0 +1,93 @@
+Invoice no: 58379529
+
+Date of issue:
+
+Seller:
+
+Dalton, Chambers and Howard
+970 Robert Via Apt. 832
+Daviston, UT 17011
+
+Tax Id: 944-77-4530
+IBAN: GBO3KMWL18203008008726
+
+ITEMS
+
+No. Description
+
+1. AMD Custom Ryzen 5 Quad
+Core Gaming PC 4.2GHZ
+Computer 8GB 1TB AM4 DDR4
+Vega 11
+
+2. W5 Pro Mini Pocket PC Windows
+10 Computer Stick Intel Z8350
+Quad Core
+
+3. Dell Desktop Computer]16GB
+
+2TB HD OR 512GB SSD Quad
+Core i5QWindows 10 22" LCD
+
+SUMMARY
+
+Total
+
+Qty
+
+4,00
+
+2,00
+
+1,00
+
+VAT [%]
+
+10%
+
+05/31/2011
+
+UM
+
+each
+
+each
+
+each
+
+Client:
+
+Tanner Inc
+
+86727 Henderson Summit Suite 008
+
+Port Davidland,
+
+ME 56702
+
+Tax Id: 913-94-1721
+
+Net price
+
+574,99
+
+119,00
+
+129,95
+
+Net worth
+2 667,91
+
+$ 2 667,91
+
+Net worth VAT [%] Gross
+worth
+
+2 299,96 10% 2 529,96
+238,00 10% 261,80
+129,95 10% 142,94
+VAT Gross worth
+
+266,79 2 934,70
+
+$ 266,79 $ 2 934,70

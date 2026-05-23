@@ -1,0 +1,54 @@
+Invoice no: 18975369
+
+Date of issue:
+
+Seller:
+
+Padilla, Mccarthy and Gonzales
+3157 Stephanie Court
+West Ashleybury, OK 99405
+
+Tax Id: 963-88-8109
+IBAN: GBO2EAUQ97489615205765
+
+ITEMS
+No. Description Qty
+1. Nintendo Gameboy Pocket 2,00
+
+Console Green with Box
+MGB-001 Japan Tested Working
+55
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+05/26/2021
+
+Client:
+
+Parker-Fowler
+USCGC Gonzales
+FPO AP 32696
+
+Tax Id: 965-76-3307
+
+UM Net price Net worth VAT [%]
+each 70,00 140,00 10%
+Net worth VAT
+140,00 14,00
+$ 140,00 $ 14,00
+
+Gross
+worth
+
+154,00
+
+Gross worth
+154,00
+
+$ 154,00

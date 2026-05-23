@@ -1,0 +1,67 @@
+Invoice no: 68688408
+
+Date of issue:
+
+Seller:
+
+Torres and Sons
+4052 Brown Roads
+Haysstad, NJ 06418
+
+Tax Id: 953-84-2239
+IBAN: GB84XSNO58142814072766
+
+ITEMS
+
+No. Description Qty
+
+1. Nike 747998-401 Team Hustle 3,00
+D7 Kids Blue Mid Top Basketball
+Shoes Size 4Y US
+
+2. Jordan Nike Kid Air 1 Retro High 1,00
+Black Gray Elephant Size 7Y
+838850-013
+
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+each
+
+03/20/2016
+
+Client:
+
+Dennis, Levy and Bowen
+523 Leslie Manors
+Lake Colleenville, CT 12053
+
+Tax Id: 904-82-9186
+
+Net price Net worth VAT [%]
+10,99 32,97 10%
+50,00 50,00 10%
+
+Net worth VAT
+82,97 8,30
+$ 82,97 $ 8,30
+
+Gross
+worth
+
+36,27
+
+55,00
+
+Gross worth
+91,27
+
+$ 91,27

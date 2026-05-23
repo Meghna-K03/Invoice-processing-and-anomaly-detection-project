@@ -1,0 +1,44 @@
+Invoice no: 26622011
+
+Date of issue:
+
+Seller:
+
+Campos-Hawkins
+35089 Simon Springs
+North Justin, FL 55687
+
+Tax Id: 909-82-6863
+IBAN: GB55AFUK49487852362162
+
+ITEMS
+No. Description Qty
+1. 4'x6' Wool Floral Handmade 3,00
+Rugs Carpet Moroccan Pastel
+Color Living Room Navajo
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+01/08/2020
+
+Client:
+
+Bird-Mccormick
+584 Melanie Cove
+Lake Renee, AR 60697
+
+Tax Id: 995-70-2452
+
+UM Net price Net worth VAT [%] Gross
+worth
+each 299,00 897,00 10% 986,70
+Net worth VAT Gross worth
+897,00 89,70 986,70
+
+$ 897,00 $ 89,70
+
+$ 986,70

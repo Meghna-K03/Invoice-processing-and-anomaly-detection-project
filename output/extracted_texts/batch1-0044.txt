@@ -1,0 +1,52 @@
+Invoice no: 12323459
+
+Date of issue:
+
+Seller:
+
+Wright, Gonzalez and Gomez
+45164 Day Village Apt. 954
+Simmonsstad, NM 14711
+
+Tax Id: 902-87-8627
+IBAN: GB33EMHE63462278604328
+
+ITEMS
+No. Description Qty
+1. Zara Yellow Shift Dress XS 3,00
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+08/04/2013
+
+Client:
+
+Moore-Scott
+381 Denise Ridges
+Port Ericport, WY 05623
+
+Tax Id: 960-94-6747
+
+Net price Net worth VAT [%]
+24,75 74,25 10%
+Net worth VAT
+74,25 7,43
+$ 74,25 $ 7,43
+
+Gross
+worth
+
+81,68
+
+Gross worth
+81,68
+
+$ 81,68

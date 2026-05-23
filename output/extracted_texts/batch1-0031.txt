@@ -1,0 +1,53 @@
+Invoice no: 20434959
+
+Date of issue:
+
+Seller:
+
+Garrett, Gonzales and Hurley
+683 Savannah Fords Apt. 092
+West Jamesport, CT 37732
+
+Tax Id: 932-75-6582
+IBAN: GB35IHYS72111215388563
+
+ITEMS
+No. Description Qty
+1. Wine Things Unlimited - Tipsy 3,00
+Wine Elf - Pewter Wine Bottle
+Stopper/Cork
+SUMMARY
+VAT [%]
+10%
+Total
+
+UM
+
+each
+
+12/20/2011
+
+Client:
+
+Holloway, Stanton and Dunn
+49479 James Canyon Apt. 672
+Port Stephaniehaven, AK 61071
+
+Tax Id: 940-95-1310
+
+Net price Net worth VAT [%]
+
+8,99 26,97 10%
+Net worth VAT
+26,97 2,70
+$ 26,97 $ 2,70
+
+Gross
+worth
+
+29,67
+
+Gross worth
+29,67
+
+$ 29,67

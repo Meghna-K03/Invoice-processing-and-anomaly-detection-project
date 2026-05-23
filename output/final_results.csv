@@ -1,0 +1,118 @@
+Filename,Invoice Number,Vendor Name,Total Amount,is_anomaly,anomaly_reason
+batch1-0001.jpg,51109338,"Andrews, Kirby and Valdez Becker Ltd",5640.17,True,Flagged by Isolation Forest
+batch1-0002.jpg,12847181,Fitzpatrick and Sons,6860.45,False,None
+batch1-0003.jpg,19471831,Palmer Ltd,44745.59,True,Flagged by Isolation Forest
+batch1-0004.jpg,16273983,"Reyes, Holloway and Lee",819.06,False,None
+batch1-0005.jpg,89969473,Johnson-Martin,797.91,False,None
+batch1-0006.jpg,72128555,Obrien Group,732.34,False,None
+batch1-0007.jpg,11580833,"Wood, Simpson and Summers",5138.35,False,None
+batch1-0008.jpg,74589240,Hall-Boyd,12973.88,True,Flagged by Isolation Forest
+batch1-0009.jpg,81978187,Padilla-Miller,124.79,False,None
+batch1-0010.jpg,99314100,"Michael, Farrell and Lee",6573.33,False,None
+batch1-0011.jpg,68688408,Torres and Sons,91.27,False,None
+batch1-0012.jpg,13407985,"Nicholson, Miller and Webster",5459.75,False,None
+batch1-0013.jpg,57986024,Schmidt LLC,237.29,False,None
+batch1-0014.jpg,77596491,"Tran, Hurst and Rodgers",22.68,False,None
+batch1-0015.jpg,46506594,Porter-Perkins,1335.86,False,None
+batch1-0016.jpg,44456646,Austin and Sons,316.1,False,None
+batch1-0017.jpg,98858130,"Dominguez, Jackson and Steele",442.07,False,None
+batch1-0018.jpg,36187296,"Lopez, Murray and Johnston",518.8,False,None
+batch1-0019.jpg,56908352,"Lozano, Wang and Smith",188.11,False,None
+batch1-0020.jpg,15001300,"Kerr, Ryan and Gomez",327.08,False,None
+batch1-0021.jpg,96430839,"Bennett, Chavez and Vazquez",4958.16,False,None
+batch1-0022.jpg,37877758,Holmes-Whitney,47320.32,True,Flagged by Isolation Forest
+batch1-0023.jpg,33102457,Harris LLC,18281.24,True,Flagged by Isolation Forest
+batch1-0024.jpg,65028137,"Johnson, Barrett and King",98.95,False,None
+batch1-0025.jpg,22083742,"Smith, Schaefer and Gonzalez",7920.0,False,None
+batch1-0026.jpg,51295021,Sims-Olson,9256.59,False,None
+batch1-0027.jpg,44848471,"Proctor, Levy and Willis",838.68,False,None
+batch1-0028.jpg,32830026,"George, Casey and Harris",1140.24,False,None
+batch1-0029.jpg,54661411,Fitzgerald Group,7200.53,False,None
+batch1-0030.jpg,58379529,"Dalton, Chambers and Howard",2667.91,False,None
+batch1-0031.jpg,20434959,"Garrett, Gonzales and Hurley",29.67,False,None
+batch1-0032.jpg,10942693,Coleman Inc,21151.66,True,Flagged by Isolation Forest
+batch1-0033.jpg,97388190,Cook Ltd,329.84,False,None
+batch1-0034.jpg,60456703,Hines Ltd,373.98,False,None
+batch1-0035.jpg,78605417,Campos LLC,722.11,False,None
+batch1-0036.jpg,94786467,Campbell-Thomas,8479.08,False,None
+batch1-0037.jpg,61669642,Carter Inc,151.38,False,None
+batch1-0038.jpg,37060863,Floyd-Figueroa,2022.82,False,None
+batch1-0039.jpg,35593328,Cruz-Carter,3004.96,False,None
+batch1-0040.jpg,74980573,West Group,173.87,False,None
+batch1-0041.jpg,69875170,"Davis, Thomas and Larson",194521.7,True,Flagged by Isolation Forest | Unusually high amount ($194521.7)
+batch1-0042.jpg,86736203,Potter-Gordon,15574.11,True,Flagged by Isolation Forest
+batch1-0043.jpg,37107781,Williamson-Hernandez,2549.93,False,None
+batch1-0044.jpg,12323459,"Wright, Gonzalez and Gomez",81.68,False,None
+batch1-0045.jpg,34967709,"Burns, King and Serrano",549.98,False,None
+batch1-0046.jpg,76778037,Wilson-Todd,759.03,False,None
+batch1-0047.jpg,24342647,"Davis, Evans and Cooper",0.0,True,Zero amount — missing or suspicious
+batch1-0048.jpg,96947403,Frazier-Rose,0.0,True,Zero amount — missing or suspicious
+batch1-0049.jpg,26700559,Martinez PLC,311.7,False,None
+batch1-0050.jpg,53553822,"Lee-Brown Bass, Kelly and Barnes",23399.04,True,Flagged by Isolation Forest
+batch1-0051.jpg,12590251,"Harrison, Tucker and Choi Logan-Rodriguez",2034.5,False,None
+batch1-0052.jpg,36033621,Walton PLC,243.71,False,None
+batch1-0053.jpg,32283117,Chapman-johnson,73.76,False,None
+batch1-0054.jpg,69703455,Anderson Group,4007.31,False,None
+batch1-0055.jpg,17290430,Hodge-Stokes,14832.92,False,None
+batch1-0056.jpg,13367493,"Terry, Crawford and Vega",494.89,False,None
+batch1-0057.jpg,89299747,"Jones, Davis and Moses",389.0,False,None
+batch1-0058.jpg,80489404,Gonzalez LLC,428.11,False,None
+batch1-0059.jpg,93219493,James PLC,0.0,True,Zero amount — missing or suspicious
+batch1-0060.jpg,80273553,"Cohen, Saunders and Chapman",32.83,False,None
+batch1-0061.jpg,99106655,Harris and Sons,5743.69,False,None
+batch1-0062.jpg,60665075,"Martin, Graham and Newman",84314.78,True,Flagged by Isolation Forest | Unusually high amount ($84314.78)
+batch1-0063.jpg,18975369,"Padilla, Mccarthy and Gonzales",154.0,False,None
+batch1-0064.jpg,16773532,"White, Young and Johnson",4919.84,False,None
+batch1-0065.jpg,25194747,Castillo-Jones,152.87,False,None
+batch1-0066.jpg,77668740,"Ryan, Garcia and Gregory",2.19,True,Suspiciously low amount ($2.19)
+batch1-0067.jpg,94166183,West-Hodges,21.56,False,None
+batch1-0068.jpg,55149610,King PLC,2779.7,False,None
+batch1-0069.jpg,12459784,"Smith, Johnson and Ramsey",162.79,False,None
+batch1-0070.jpg,48190115,"Wilson, Sanders and Smith",1250.75,False,None
+batch1-0071.jpg,45234802,Williams-Burns,1573.95,False,None
+batch1-0072.jpg,72929361,Dawson-Strickland,0.0,True,Zero amount — missing or suspicious
+batch1-0073.jpg,58051696,"Johnson, Buckley and Terry",53.96,False,None
+batch1-0074.jpg,98852451,Peterson LLC,4151.23,False,None
+batch1-0075.jpg,72024579,Green-Snow,179.75,False,None
+batch1-0076.jpg,32530472,Cooper-Fox,170.0,False,None
+batch1-0077.jpg,22132714,Jordan-Cohen,5295.73,False,None
+batch1-0078.jpg,61874671,Gonzales-Faulkner,312.93,False,None
+batch1-0079.jpg,32357396,Obrien Inc,62778.56,True,Flagged by Isolation Forest | Unusually high amount ($62778.56)
+batch1-0080.jpg,66389180,Mercer-Donovan,291.92,False,None
+batch1-0081.jpg,15288019,Fernandez Ltd,1.71,True,Suspiciously low amount ($1.71)
+batch1-0082.jpg,31293737,Nunez Inc,371.51,False,None
+batch1-0083.jpg,69556867,Houston Group,1190.54,False,None
+batch1-0084.jpg,69062791,Torres Group,2322.84,False,None
+batch1-0085.jpg,62256280,Myers Inc,2970.0,False,None
+batch1-0086.jpg,25687531,"Moore, Gallagher and Villanueva",1237.5,False,None
+batch1-0087.jpg,87734908,"Chase, Green and Bailey",6.58,True,Suspiciously low amount ($6.58)
+batch1-0088.jpg,10060256,Kim-Davenport,500.24,False,None
+batch1-0089.jpg,40259650,Medina Inc,154.1,False,None
+batch1-0090.jpg,25532811,Sandoval-Mckenzie,3541.78,False,None
+batch1-0091.jpg,54212825,Hutchinson PLC,551.54,False,None
+batch1-0092.jpg,41884162,Weaver Ltd,32.83,False,None
+batch1-0093.jpg,57696752,"Lopez-Smith Rodriguez, Grant and Green",2032.0,False,None
+batch1-0094.jpg,49360354,Armstrong Inc,358.35,False,None
+batch1-0095.jpg,61479635,"Kelley-Thomas Green, Kelly and Matthews",29.95,False,None
+batch1-0096.jpg,76229289,Rodriguez and Sons,5149.91,False,None
+batch1-0097.jpg,38173030,Short-Dixon,6208.38,False,None
+batch1-0098.jpg,92395596,"Rodriguez, White and Hernandez",0.0,True,Zero amount — missing or suspicious
+batch1-0099.jpg,73459321,"Hernandez, English and Yoder",495.3,False,None
+batch1-0100.jpg,22393723,Henderson Group,214.35,False,None
+batch1-0101.jpg,72761554,Phillips-Bailey,5439.26,False,None
+batch1-0102.jpg,35312696,"Parker, Khan and Parker",0.0,True,Zero amount — missing or suspicious
+batch1-0103.jpg,60605668,Foster-Beard,6097.29,False,None
+batch1-0104.jpg,90188228,Baker-Smith Lozano-Lindsey,321.51,False,None
+batch1-0105.jpg,57290992,Adams PLC,70577.35,True,Flagged by Isolation Forest | Unusually high amount ($70577.35)
+batch1-0106.jpg,98788913,Salazar-Zavala,465.17,False,None
+batch1-0107.jpg,40700258,Maxwell Inc,514.02,False,None
+batch1-0108.jpg,20012449,Jackson Ltd,327.8,False,None
+batch1-0109.jpg,26622011,Campos-Hawkins,986.7,False,None
+batch1-0110.jpg,91296589,"Wagner, Jensen and Key King Inc",1517.95,False,None
+batch1-0111.jpg,33270121,"Cross, Pearson and Murillo",10.94,False,None
+batch1-0112.jpg,85238418,Spencer Group,178.83,False,None
+batch1-0113.jpg,97022721,Huff-Lowe Brown Ltd,4014.76,False,None
+batch1-0114.jpg,74184749,Klein and Sons,2.99,True,Suspiciously low amount ($2.99)
+batch1-0115.jpg,94772624,"Smith-Strickland Goodman, Rogers and Williams",50.0,False,None
+batch1-0116.jpg,84752922,"Patrick, Strong and Miller Hernandez and Sons",934.9,False,None
+batch1-0117.jpg,93053660,James LLC,375.04,False,None

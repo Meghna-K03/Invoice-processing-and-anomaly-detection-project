@@ -1,0 +1,87 @@
+Invoice no: 72761554
+
+Date of issue:
+
+Seller:
+
+Phillips-Bailey
+154 Ryan Court
+Erinview, MD 22698
+
+Tax Id: 996-75-8957
+IBAN: GB48NCKL44417412467863
+
+ITEMS
+No. Description Qty
+1. Intel NUC MINI PC i7-6770HQ 3,00
+
+2.60GHz 16GB RAM 120GB SSD
+NUC6i7KYB NUC6i7KYK W10P
+
+2. CAD Solidworks Video Photo 2,00
+Editing Workstation 64GB 8C
+Xeon Quadro Computer NVME
+
+3. AMD Custom Ryzen 5 Quad 4,00
+Core Gaming PC 4.2GHZ
+Computer 8GB 1TB AM4 DDR4
+Vega 11
+
+4. Dell Desktop Computer 3020 3,00
+
+Micro Tiny PC Intel i3 4GB
+120GB SSD Windows 10 WiFi
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+11/12/2014
+
+UM
+
+eacn
+
+each
+
+eacn
+
+eacn
+
+Client:
+
+Johnson, Smith and Adkins
+012 Mcmahon Estate
+Khanview, MS 21813
+
+Tax Id: 979-82-6001
+
+Net price Net worth VAT [%]
+399,99 1 199,97 10%
+520,00 1 040,00 10%
+574,99 2 299,96 10%
+134,95 404,85 10%
+
+Net worth VAT
+4 944,78 494,48
+$4 944,78 $ 494,48
+
+Gross
+worth
+
+1 319,97
+
+1 144,00
+
+2 529,96
+
+445,33
+
+Gross worth
+
+5 439,26
+
+$5 439,26

@@ -1,0 +1,107 @@
+Invoice no: 73459321
+
+Date of issue:
+
+Seller:
+
+Hernandez, English and Yoder
+2132 Jordan Circle Suite 033
+South Caseyton, SD 47553
+
+Tax Id: 916-95-3070
+IBAN: GB46RYDH44304341979849
+
+ITEMS
+
+No. Description Qty
+
+1. Jordan 10 Retro Fusion Red Size 3,00
+6Y
+
+2. KushyShoo Children Kid Rain 3,00
+Boot Shoes Rubber, Monkey,
+Size Youth 1
+
+3. Lego Star Wars Minifigures 2,00
+
+Stormtrooper Darth Vader Yoda
+Obi Van Mandalorian New
+
+4, Kids Jordan 7 Retro Sz 2y 1,00
+5. crewcuts shoes 2,00
+6. Stacy Adams 43373-221 Kids 2,00
+
+2M Classic Cognac Oxford
+
+7. Nike Oncore High Jr 6.0 (Kids) 2,00
+Size 4Y Black, Red, White
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+11/19/2013
+
+UM
+
+eacn
+
+each
+
+eacn
+
+eacn
+
+eacn
+
+each
+
+eacn
+
+Client:
+
+Manning, Parker and Fleming
+9975 Leon Villages Apt. 845
+Gonzalezberg, VA 02610
+
+Tax Id: 997-85-3287
+
+Net price Net worth VAT [%]
+
+60,00 180,00 10%
+22,99 68,97 10%
+2,98 5,96 10%
+72,00 72,00 10%
+12,00 24,00 10%
+24,67 49,34 10%
+25,00 50,00 10%
+
+Net worth VAT
+
+450,27 45,03
+
+$ 450,27 $ 45,03
+
+Gross
+worth
+
+198,00
+
+75,87
+
+6,56
+
+79,20
+26,40
+
+54,27
+
+55,00
+
+Gross worth
+495,30
+
+$ 495,30

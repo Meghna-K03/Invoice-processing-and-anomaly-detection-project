@@ -1,0 +1,53 @@
+Invoice no: 34967709
+
+Date of issue:
+
+Seller:
+
+Burns, King and Serrano
+75240 Munoz Bypass Suite 960
+East Tylerton, WA 04004
+
+Tax Id: 913-91-8891
+IBAN: GB47XEBQ87721203651804
+
+ITEMS
+No. Description Qty
+1. Nintendo 64 console complete 2,00
+
+in box with extra controller
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+01/16/2018
+
+Client:
+
+Bryant-Wall
+21372 Nelson Fork Suite 152
+North Pamela, OK 82764
+
+Tax Id: 995-75-2976
+
+UM Net price Net worth VAT [%]
+each 249,99 499,98 10%
+Net worth VAT
+499,98 50,00
+$ 499,98 $ 50,00
+
+Gross
+worth
+
+549,98
+
+Gross worth
+
+549,98
+
+$ 549,98

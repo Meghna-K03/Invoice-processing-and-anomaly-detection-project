@@ -1,0 +1,31 @@
+Invoice no: 26700559
+
+Date of issue: 01/11/2018
+
+Seller: Client:
+
+Martinez PLC Harrison and Sons
+
+8108 Allen Meadows 64237 Michael Harbor Suite 710
+East Victorburgh, MD 45631 South Kelly, LA 05220
+
+Tax Id: 974-76-2764 Tax Id: 958-82-3330
+
+IBAN: GB35YDNN61347660277835
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. My Life in and Out of the Rough 3,00 each 6,74 20,22 10% 22,24
+by John Daly (2006, Hardcover)
+FREE SHIPPING
+2. 0365 Days + This Day + 3,00 each 2,21 6,63 10% 7,29
+Another 365 days by Blanka
+Lipinska (English version)]
+3. Book: The Lee-Enfield by lan 3,00 each 94,95 284,85 10% 313,34
+Skennerton- Signed Edition
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 311,70 31,17 342,87
+
+Total $ 311,70 $ 31,17 $ 342,87

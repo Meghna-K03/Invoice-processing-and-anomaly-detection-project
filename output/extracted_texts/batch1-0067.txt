@@ -1,0 +1,55 @@
+Invoice no: 94166183
+
+Date of issue:
+
+Seller:
+
+West-Hodges
+898 Jennifer Trail
+Lisamouth, MI 40976
+
+Tax Id: 901-78-5388
+IBAN: GB10BXID06957659376976
+
+ITEMS
+No. Description Qty
+1. Matilda Jane Womans Lets Go 1,00
+Together Black Knit Dress Size
+M Medium NWT
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+08/24/2019
+
+Client:
+
+Simmons Inc
+
+17172 Thomas Spurs Suite 214
+Lorichester, WV 81274
+
+Tax Id: 954-94-9932
+
+Net price Net worth VAT [%]
+19,60 19,60 10%
+Net worth VAT
+19,60 1,96
+$ 19,60 $ 1,96
+
+Gross
+worth
+
+21,56
+
+Gross worth
+21,56
+
+$ 21,56

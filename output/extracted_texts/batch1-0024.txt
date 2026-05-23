@@ -1,0 +1,53 @@
+Invoice no: 65028137
+
+Date of issue:
+
+Seller:
+
+Johnson, Barrett and King
+2008 Thomas Square
+Sanchezmouth, AK 49318
+
+Tax Id: 944-72-9866
+IBAN: GB10AMVD30795287137531
+
+ITEMS
+No. Description Qty UM
+1. Fast Dell Optiplex Windows 10 1,00 each
+
+Desktop Computer Tower PC
+Core i3 3.1GHz 4GB 320GB
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+01/03/2014
+
+Client:
+
+Townsend-Mitchell
+0681 Thomas Field
+Michaelshire, FL 64856
+
+Tax Id: 988-84-2952
+
+Net price Net worth VAT [%]
+
+89,95 89,95 10%
+Net worth VAT
+89,95 9,00
+$ 89,95 $ 9,00
+
+Gross
+worth
+
+98,95
+
+Gross worth
+98,95
+
+$ 98,95

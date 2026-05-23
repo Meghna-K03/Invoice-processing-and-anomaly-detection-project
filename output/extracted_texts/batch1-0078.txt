@@ -1,0 +1,70 @@
+Invoice no: 61874671
+
+Date of issue: 07/26/2018
+
+Seller:
+
+Gonzales-Faulkner
+2532 lan Springs Suite 638
+Williamshire, NE 03882
+
+Tax Id: 992-82-8738
+IBAN: GB53QIPA71313865022785
+
+ITEMS
+
+No. Description Qty UM
+
+1. fire los angeles dress Medium 3,00 each
+
+2. Tommy Bahama Women's V 2,00 each
+Neck Linen Floral Dress Size M
+Beige Short Sleeve Tan
+
+3. Jams World Hawaiian J Dress 3,006 each
+Rayon sz.L
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+Client:
+
+Garcia-Jones
+0715 Vasquez Ford
+East Jeanette, MD 91592
+
+Tax Id: 918-90-3872
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+Net price Net worth
+6,50 19,50
+34,99 69,98
+65,00 195,00
+Net worth VAT
+284,48 28,45
+$ 284,48 $ 28,45
+
+Gross
+worth
+
+21,45
+
+76,98
+
+214,50
+
+Gross worth
+312,93
+
+$ 312,93
