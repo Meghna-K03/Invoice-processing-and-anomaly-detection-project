@@ -6,7 +6,7 @@ A complete end-to-end pipeline that reads invoice images, extracts structured da
 
 ## Project Overview
 
-Manual invoice processing in Accounts Payable (AP) departments is slow, error-prone, and vulnerable to fraud. This project automates the entire workflow — from reading a raw invoice image to flagging suspicious entries — simulating a real-world data science internship task.
+Manual invoice processing in Accounts Payable (AP) departments is slow, error-prone, and vulnerable to fraud. This project automates the entire workflow — from reading a raw invoice image to flagging suspicious entries — simulating a real-world task.
 
 ---
 
@@ -206,5 +206,5 @@ Simple but important checks:
 ## Author
 
 **Meghna**
-ML Intern Project
+ML intern project
 Automated Invoice Processing and Anomaly Detection
