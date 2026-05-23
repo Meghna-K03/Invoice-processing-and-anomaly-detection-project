@@ -1,4 +1,4 @@
-import pytesseract  # pytesseract — the python wrapper for Tesseract OCR engine
+import pytesseract  
 import cv2          # opencv — used for reading and processing images
 from PIL import Image  # PIL — image handling library (needed by pytesseract internally)
 import os           

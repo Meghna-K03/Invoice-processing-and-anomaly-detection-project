@@ -5,7 +5,7 @@ import os
 def extract_invoice_number(text):
     """Extract invoice number from raw OCR text."""
     
-    # invoices can label their number in different ways
+    # The invoices can label their number in different ways
     # we try multiple patterns to cover all cases
     # note: the 4th pattern handles OCR misreading 'I' as 'n' (nvoice instead of Invoice)
     patterns = [

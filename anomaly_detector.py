@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np     # numpy — for numerical operations
 from sklearn.ensemble import IsolationForest    # the ML model we use to detect anomalies
 from sklearn.preprocessing import StandardScaler  
-from thefuzz import fuzz    # fuzzy matching — finds similar strings (for duplicate detection)
+from thefuzz import fuzz    # fuzzy matching-it finds similar strings (for duplicate detection)
 from datetime import datetime # for date validation
 import os    
 

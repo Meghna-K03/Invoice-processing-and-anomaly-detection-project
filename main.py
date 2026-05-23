@@ -8,7 +8,7 @@ def main():
     print("  🧾 INVOICE PROCESSING PIPELINE STARTED")
     print("="*50 + "\n")
 
-    # Step 1: Parse all invoices
+    # Step 1: Parse all invoices.
     print("---> STEP 1: Parsing all invoices...")
     all_invoices = parse_all_invoices()
 
