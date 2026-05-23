@@ -24,6 +24,7 @@ Manual invoice processing in Accounts Payable (AP) departments is slow, error-pr
 
 ## Project Structure
 
+
 invoice_project/
 │
 ├── invoices/                   ← put your invoice images 
@@ -41,6 +42,7 @@ invoice_project/
 ├── main.py                     ← runs the full pipeline from start to finish
 ├── requirements.txt            ← list of all Python libraries needed
 └── README.md                   ← this file
+
 
 
 ---
