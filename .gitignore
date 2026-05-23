@@ -2,6 +2,5 @@
 invoices/
 __pycache__/
 *.pyc
-output/
 output/processed/
 output/extracted_texts/
