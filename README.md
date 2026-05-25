@@ -4,73 +4,68 @@ A complete end-to-end pipeline that reads invoice images, extracts structured da
 
 ---
 
-## Project Overview
 
-Manual invoice processing in Accounts Payable (AP) departments is slow, error-prone, and vulnerable to fraud. This project automates the entire workflow — from reading a raw invoice image to flagging suspicious entries — simulating a real-world task.
+## What does this project do?
 
----
+Iinstead of someone manually going through hundreds of invoices and typing out the details, this system does it automatically. It reads the invoice image, extracts things like the invoice number, vendor name, total amount, and line items — and then runs some checks to see if anything looks off (like an unusually high amount or a zero-dollar invoice).
 
-## What This Project Does
+The pipeline has four main steps:
 
-1. Reads raw invoice images from a folder
-2. Cleans and prepares each image for OCR (grayscale, noise reduction, binarization)
-3. Extracts raw text from each image using Tesseract OCR
-4. Parses the raw text to pull out key fields (invoice number, date, vendor, amount, line items)
-5. Validates the extracted data using rule-based checks
-6. Detects anomalies using Z-score analysis and Isolation Forest ML model
-7. Saves everything to CSV files with is_anomaly and anomaly_reason columns
+1. **Clean up the image** — remove noise and make the text sharp using OpenCV
+2. **Read the text** — use Tesseract OCR to extract text from the cleaned image
+3. **Pull out the fields** — use regex to find invoice number, date, vendor, amount etc.
+4. **Detect anomalies** — use Z-score + Isolation Forest ML to flag suspicious invoices
 
 ---
 
-## Project Structure
+## Project files
 
-
+```
 invoice_project/
 │
-├── invoices/                   ← put your invoice images 
+├── invoices/                   ← put your invoice images here
 │
 ├── output/
-│   ├── extracted_texts/        ← OCR output saved as .txt files (one per invoice)
-│   ├── invoices.csv            ← structured parsed data from all invoices
+│   ├── extracted_texts/        ← OCR output saved as .txt (one per invoice)
+│   ├── invoices.csv            ← all extracted data in structured format
 │   ├── anomaly_results.csv     ← anomaly detection results with reasons
-│   └── final_results.csv       ← complete final output
+│   └── final_results.csv      ← final output 
 │
-├── preprocessing.py            ← cleans up invoice images before OCR
-├── ocr_engine.py               ← extracts text from images using Tesseract
-├── parser.py                   ← pulls out specific fields from raw OCR text
+├── preprocessing.py            ← cleans the invoice image before OCR
+├── ocr_engine.py               ← runs Tesseract OCR and saves .txt files
+├── parser.py                   ← extracts specific fields using regex
 ├── anomaly_detector.py         ← detects suspicious invoices using ML
-├── main.py                     ← runs the full pipeline from start to finish
-├── requirements.txt            ← list of all Python libraries needed
-└── README.md                   ← this file
-
-
+├── visualizations.py           ← generates box plots and scatter plots
+├── main.py                     ← runs everything from start to finish
+├── requirements.txt
+└── README.md
+```
 
 ---
 
-## How to Set Up
+## Setup
 
-### Step 1 — Clone the repository
+### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/invoice-project.git
-cd invoice-project
+git clone https://github.com/Meghna-K03/Invoice-processing-and-anomaly-detection-project
+cd OCR
 ```
 
-### Step 2 — Install Python libraries
+### 2. Install Python libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3 — Install Tesseract OCR engine
+### 3. Install Tesseract
 
-Tesseract is the OCR engine this project uses. It needs to be installed separately.
+Tesseract is the OCR engine this project uses — it needs to be installed separately from Python.
 
 **Windows:**
-Download the installer from:
-https://github.com/UB-Mannheim/tesseract/wiki
+Download from: https://github.com/UB-Mannheim/tesseract/wiki
 
-After installing, make sure this line in `ocr_engine.py` points to the correct path:
+After installing, make sure this line in `ocr_engine.py` points to the right path:
 ```python
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 ```
@@ -85,110 +80,70 @@ brew install tesseract
 sudo apt install tesseract-ocr
 ```
 
-### Step 4 — Add invoice images
+### 4. Add your invoice images
 
 Download the dataset from Kaggle:
 https://www.kaggle.com/datasets/osamahosamabdellatif/high-quality-invoice-images-for-ocr
 
-Place your invoice images inside the `invoices/` folder.
+Put the images inside the `invoices/` folder.
 
 ---
 
-## How to Run
+## How to run
 
-### Run the full pipeline at once (recommended):
-
+### Run everything at once:
 ```bash
 python main.py
 ```
 
-This runs all steps automatically and saves the results.
-
-### Or run step by step:
+### Or step by step:
 
 ```bash
-# Step 1 — extract text from all images and save as .txt files
-# only need to run this once — takes a few minutes
+# Step 1 — OCR (only need to run this once, it's slow)
 python ocr_engine.py
 
-# Step 2 — parse the .txt files and build the invoices CSV
+# Step 2 — Parse the extracted text into CSV
 python parser.py
 
-# Step 3 — detect anomalies and save results
+# Step 3 — Detect anomalies
 python anomaly_detector.py
+
+# Step 4 — Generate visualizations
+python visualizations.py
 ```
+
+> **Note:**  run `ocr_engine.py` only once and save the text as `.txt` files. After that, `parser.py` reads directly from those files — so if we need to tweak the regex, we don't have to wait for OCR to run again every time. This saved a lot of time during development.
 
 ---
 
-## Results on This Dataset
+## Results
 
 | Metric | Value |
 |--------|-------|
 | Total invoices processed | 117 |
-| OCR extraction accuracy | 94.8% |
-| Invoices passing validation | 111 |
+| Successfully parsed | 111 |
+| Parsing success rate | 94.8% |
 | Anomalies detected | 22 |
-| Duplicate invoice pairs | 0 |
+| Duplicate pairs found | 0 |
 
-### Breakdown of anomalies found:
+### What kinds of anomalies were found?
 
-| Anomaly Type | Count |
-|-------------|-------|
+| Type | Count |
+|------|-------|
 | Flagged by Isolation Forest ML | 12 |
 | Zero total amount | 6 |
-| Suspiciously low amount (< $10) | 4 |
-| Unusually high amount (> $50,000) | 4 |
+| Suspiciously low (< $10) | 4 |
+| Unusually high (> $50,000) | 4 |
 
 ---
 
-## Output Files Explained
+## Anomaly detection approach
 
-| File | What it contains |
-|------|-----------------|
-| `output/invoices.csv` | All 117 invoices with extracted fields like invoice number, date, vendor, total amount |
-| `output/anomaly_results.csv` | Same data with added columns: zscore, is_anomaly, anomaly_reason |
-| `output/final_results.csv` | Final combined output from the complete pipeline |
+used three methods together so nothing gets missed:
 
----
-
-## Libraries Used
-
-| Library | What it is used for |
-|---------|-------------------|
-| opencv-python | Reading and preprocessing invoice images |
-| pytesseract | Running Tesseract OCR to extract text |
-| pandas | Storing and saving invoice data as DataFrames |
-| numpy | Numerical operations |
-| scikit-learn | Isolation Forest anomaly detection model |
-| thefuzz | Fuzzy string matching for duplicate detection |
-| Pillow | Image handling support for pytesseract |
-
----
-
-## Anomaly Detection Approach
-
-This project uses a combination of three methods to detect suspicious invoices:
-
-**1. Z-score Analysis (Statistical)**
-Calculates how far each invoice amount is from that vendor's average. A Z-score above 2 means the amount is unusually high or low for that specific vendor.
-
-**2. Isolation Forest (Machine Learning)**
-An unsupervised ML algorithm that identifies invoices that behave differently from the rest of the dataset based on Total Amount and Line Items Count. contamination is set to 0.1 meaning we expect about 10% anomalies.
-
-**3. Rule-Based Checks**
-Simple but important checks:
-- Zero or near-zero amounts (< $10)
-- Extremely high amounts (> $50,000)
-- Future dates
-- Missing dates or invalid date formats
-
----
-
-## Known Limitations
-
-- Vendor name extraction works well for most invoices but can merge seller and client names together in cases where OCR places them on the same line with single spacing (affects about 10-15% of invoices)
-- Math validation (Quantity x Unit Price = Line Total) only applies to invoices where all fields appear on a single line. Split-column invoice layouts make line-level matching unreliable
-- Old invoice flagging (> 90 days) is disabled because this dataset contains historical invoices from 2011 to 2021. In a live production system this rule would be enabled
+- **Z-score** — checks if a vendor's invoice amount is unusual compared to their own history
+- **Isolation Forest** — ML model that learns what "normal" looks like and flags anything different
+- **Rule-based checks** — simple thresholds like zero amounts, very low amounts, future dates
 
 ---
 
@@ -196,17 +151,24 @@ Simple but important checks:
 
 | Detail | Info |
 |--------|------|
-| Name | High Quality Invoice Images for OCR |
 | Source | Kaggle |
 | Link | https://www.kaggle.com/datasets/osamahosamabdellatif/high-quality-invoice-images-for-ocr |
-| Images used | 117 images from Batch 1 |
+| Images used | 117 from Batch 1 |
+| Date range | 2011-2021 |
+
+---
+
+## Known limitations
+
+- Some invoices have a two-column layout where OCR reads the left and right sides as completely separate blocks of text — this makes it hard to match quantities with prices
+- Vendor name extraction is not perfect when seller and client names end up on the same line
+- The 90-day old invoice check is disabled here since this is a historical dataset — in a real system it would be on
 
 ---
 
 ## Author
 
-**Meghna**
+Meghna K
 
 
-ML intern project
-Automated Invoice Processing and Anomaly Detection
+Machine Learning intern project
