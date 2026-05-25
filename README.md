@@ -49,7 +49,7 @@ invoice_project/
 
 ```bash
 git clone https://github.com/Meghna-K03/Invoice-processing-and-anomaly-detection-project
-cd OCR
+cd Invoice-processing-and-anomaly-detection-project
 ```
 
 ### 2. Install Python libraries
